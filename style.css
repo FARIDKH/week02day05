@@ -1,0 +1,154 @@
+.html,.body {
+	margin:0;
+	padding: 0:;
+}
+.main {
+	width:1000px;
+	margin:0 auto;
+}
+.header {
+	width: 100%;
+	height: 30px;
+	background-color: darkblue;
+	position: fixed;
+	top:0;
+}
+.header span {
+	padding: 20px;
+	font-size:30px;
+	color:white;
+}
+.sofaz {
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin: 15px;
+	margin-right: 2px;
+	border:1px solid lightgray;	
+}
+.sofaz img{
+	width: 300px;
+	height: 220px;
+}
+.sofaz:after{
+	content: "4 Iyl";
+	color:white;
+	font-size:30px;
+	display: block;
+	width:60px;
+	height: 45px;
+	background-color: lightblue;
+	opacity: 0.9;
+	position:absolute;
+	top:40px;
+	bottom:20px;
+	margin-left:10px;
+	margin-top:-17px;
+	margin-left:-1px;
+}
+.sofaz p {
+	padding:20px;
+	font-size: 20px;
+	color:blue;
+}
+
+.kepez {
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin: 15px;	
+	margin-right: 2px;
+	border:1px solid lightgray;	
+}
+.kepez img{
+	width: 300px;
+	height: 220px;
+}
+.kepez:after{
+	content: "4 Iyl";
+	color:white;
+	font-size:30px;
+	display: block;
+	width:60px;
+	height: 45px;
+	background-color: lightblue;
+	opacity: 0.9;
+	position:absolute;
+	top:40px;
+	bottom:20px;
+	margin-left:10px;
+	margin-top:-17px;
+	margin-left:-1px;
+}
+.kepez p {
+	padding:20px;
+	font-size: 20px;
+	color:blue;
+}
+.neft {
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin: 15px;	
+	margin-left: 10px;
+	border:1px solid lightgray;	
+}
+.neft img{
+	width: 300px;
+	height: 220px;
+}
+.neft:after{
+	content: "4 Iyl";
+	color:white;
+	font-size:30px;
+	display: block;
+	width:60px;
+	height: 45px;
+	background-color: lightblue;
+	opacity: 0.9;
+	position:absolute;
+	top:40px;
+	bottom:20px;
+	margin-left:10px;
+	margin-top:-17px;
+	margin-left:-1px;
+}
+.neft p {
+	padding:20px;
+	font-size: 20px;
+	color:blue;
+}
+.mudafie {
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin: 15px;	
+	margin-right: 2px;
+	border:1px solid lightgray;	
+}
+.mudafie img{
+	width: 300px;
+	height: 220px;
+}
+
+.mudafie p {
+	padding:20px;
+	font-size: 20px;
+	color:blue;
+}
+.mudafie:after{
+	content: "4 Iyl";
+	color:white;
+	font-size:30px;
+	display: block;
+	width:60px;
+	height: 45px;
+	background-color: lightblue;
+	opacity: 0.9;
+	position:absolute;
+	top:40px;
+	bottom:20px;
+	margin-left:10px;
+	margin-top:-17px;
+	margin-left:-1px;
+}
